@@ -9,7 +9,7 @@ public class breakcontinue {
        	 if(i == 1)
        	 {
        		 //continue;   
-       		 break;
+       		 //break;
        	 }
        	 System.out.println(i);
         }
